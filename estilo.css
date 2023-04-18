@@ -125,8 +125,111 @@ li a:hover {
   color: black;
 }
 
-#9B0600
-#E6726E
-#E00700
-#63100D
-#AD0600
+.Verde {
+  position: absolute;
+  background:#0f653d ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Azul{
+  position: absolute;
+  background:#204E80;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Roxa {
+  position: absolute;
+  background:#4A0080;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Amarela {
+  position: absolute;
+  background:#E0D100 ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Dourada {
+  position: absolute;
+  background:#FFA703;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Marrom {
+  position: absolute;
+  background:#442A20 ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Preta {
+  position: absolute;
+  background:black ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Cinza {
+  position: absolute;
+  background:#3E4040 ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Branca {
+  position: absolute;
+  background:black ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
